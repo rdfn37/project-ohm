@@ -19,3 +19,7 @@ ENV/
 # Google Cloud
 key.json
 *.json
+
+# Project control items
+functional-description.md
+TODO.md
